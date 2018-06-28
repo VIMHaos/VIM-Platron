@@ -1,6 +1,6 @@
 # VIM-Platron 
 
-VIM-Platron is a small Class for work with Platron (https://front.platron.ru/).
+VIM-Platron is a small Class for work with Platron (https://www.platron.pro/), API Docs https://client.platron.pro/apisettings/index.
 Platron - a service for receiving payments, allowing payments in online stores using popular online payment tools.
 
 ## Initialisation Platron
